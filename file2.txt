@@ -1,1 +1,2 @@
-vim is the best text editor 
+vim is the best text editor
+a new line
